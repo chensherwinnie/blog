@@ -1,8 +1,8 @@
 # Setup
 title: Sherwin's Blog
-url: https://chensherwinnie.github.io
+url: https://chensherwinnie.github.io/blog/
 paginate: 1
-baseurl: "/blog"
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -34,6 +34,17 @@ sass:
 author:
   name: Sherwin Chen
   email: sherwinnie@wiseyestudio.com
+
+
+# Navbar page list
+nav:
+  - title: Archive
+    url: /archive
+
+  - title: About
+    url: /about
+    
+ga_analytics: true
 
 # Custom vars
 version: 3.0.0
