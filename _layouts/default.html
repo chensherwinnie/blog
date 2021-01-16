@@ -7,24 +7,11 @@
 
     <div class="container content">
       <header class="masthead">
-        <h1 class="masthead-title">
+        <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          
-          {% if site.tagline != "" %}
-            <small>{{ site.tagline }}</small>
-          {% endif %}
-
-          <h2 class="masthead-title">
-            <nav class="nav">
-              {% for nav in site.nav %}
-              <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
-              {% endfor %}
-            </nav>
-          <h2>
-        </h1>
+          <small>{{ site.tagline }}</small>
+        </h3>
       </header>
-
-      <hr>
 
       <main>
         {{ content }}
