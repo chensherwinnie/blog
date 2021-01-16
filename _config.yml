@@ -1,8 +1,8 @@
 # Setup
 title: Sherwin's Blog
-url: https://chensherwinnie.github.io/blog/
+url: https://chensherwinnie.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/blog"
 permalink: pretty
 
 # Gems
@@ -37,14 +37,6 @@ author:
 
 # Custom vars
 version: 3.0.0
-
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
 
 defaults:
   -
