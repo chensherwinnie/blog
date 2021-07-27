@@ -2,7 +2,7 @@
 title:  "UniTask- 官方Read.md中文翻譯"
 date:   2021-01-16
 categories: Unity
-permalink: "unity/:title"
+permalink: "blog/unity/:title"
 tags: C# learning
 ---
 

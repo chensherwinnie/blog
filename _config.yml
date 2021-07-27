@@ -2,7 +2,7 @@
 title: Sherwin's Blog
 url: https://chensherwinnie.github.io
 paginate: 1
-baseurl: "/blog"
+baseurl: "blog/"
 permalink: pretty
 
 # Gems

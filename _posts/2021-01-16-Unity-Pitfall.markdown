@@ -2,7 +2,7 @@
 title:  "Unity- Pitfall"
 date:   2021-07-28
 categories: Unity
-permalink: "unity/:title"
+permalink: "blog/unity/:title"
 tags: C# learning
 ---
 
